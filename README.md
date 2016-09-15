@@ -1,5 +1,5 @@
 # Unreal-Engine-4X-By-Example
-[Unreal Engine 4X By Example](https://www.packtpub.com/game-development/unreal-engine-4x-example?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781785885532) by [Packt Publishing[(ttps://www.packtpub.com/)
+[Unreal Engine 4X By Example](https://www.packtpub.com/game-development/unreal-engine-4x-example?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781785885532) by [Packt Publishing[(https://www.packtpub.com/)
 Chapter 1 - Finished HelloUnreal project can be found at https://drive.google.com/open?id=0ByC3Ab7YyAMsd1ZGaWxJSlo1Z1U
 Chapter 2 - No source required
 Chapter 3 - Finished BarrelHopper project can be found at https://drive.google.com/open?id=0ByC3Ab7YyAMsd1ZGaWxJSlo1Z1U
