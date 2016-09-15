@@ -1,9 +1,10 @@
 # Unreal-Engine-4X-By-Example
-[Unreal Engine 4X By Example](https://www.packtpub.com/game-development/unreal-engine-4x-example?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781785885532) by [Packt Publishing[(https://www.packtpub.com/)
+[Unreal Engine 4X By Example](https://www.packtpub.com/game-development/unreal-engine-4x-example?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781785885532) by [Packt Publishing](https://www.packtpub.com/)
 Chapter 1 - Finished HelloUnreal project can be found at https://drive.google.com/open?id=0ByC3Ab7YyAMsd1ZGaWxJSlo1Z1U
 Chapter 2 - No source required
 Chapter 3 - Finished BarrelHopper project can be found at https://drive.google.com/open?id=0ByC3Ab7YyAMsd1ZGaWxJSlo1Z1U
-Chapter 4 - Contains the finished HelloWorld source code, the completed project can be found at https://drive.google.com/open?id=0ByC3Ab7YyAMsd1ZGaWxJSlo1Z1U
+Chapter 4 - Contains the finished HelloWorld source code, the completed project can be found at
+https://drive.google.com/open?id=0ByC3Ab7YyAMsd1ZGaWxJSlo1Z1U
 Chapter 5 - Contains the source code for the work done on the Bounty Dash Project in Chapter 5
 Chapter 6 - Contains the finished BountyDash source code,  the completed project can be found at https://drive.google.com/open?id=0ByC3Ab7YyAMsd1ZGaWxJSlo1Z1U
 Chapter 7 - Contains the source code for the work done on the Boss Mode project in Chapter 7
