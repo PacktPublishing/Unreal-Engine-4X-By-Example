@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/unreal-engine-4-x-by-example/9781785885532)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1785885537).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Unreal-Engine-4X-By-Example
 [Unreal Engine 4X By Example](https://www.packtpub.com/game-development/unreal-engine-4x-example?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781785885532) by [Packt Publishing](https://www.packtpub.com/)
 Chapter 1 - Finished HelloUnreal project can be found at https://drive.google.com/open?id=0ByC3Ab7YyAMsd1ZGaWxJSlo1Z1U
