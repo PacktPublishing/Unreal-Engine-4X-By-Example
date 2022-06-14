@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B05157?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Unreal-Engine-4X-By-Example
 [Unreal Engine 4X By Example](https://www.packtpub.com/game-development/unreal-engine-4x-example?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781785885532) by [Packt Publishing](https://www.packtpub.com/)
 Chapter 1 - Finished HelloUnreal project can be found at https://drive.google.com/open?id=0ByC3Ab7YyAMsd1ZGaWxJSlo1Z1U
